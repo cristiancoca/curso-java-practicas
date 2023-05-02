@@ -1,0 +1,40 @@
+/* font-family: 'Poppins', sans-serif; */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: #0a2ff1;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 59pt;
+}
+
+h1>strong{
+    background-color: #3ffff3;
+}
+
+p{
+    color: #0a2ff1;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 23pt;  
+}
+img{
+    width: 100%;
+}
+.container{
+    width: 750px;
+    height: max-content;
+    
+}
+
+.imagen{
+    background-image: url(./Ejercicio1/fondo.JPG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-right: 50%;
+}

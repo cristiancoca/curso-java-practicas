@@ -1,0 +1,43 @@
+/* font-family: 'Source Sans 3', sans-serif; */
+
+.container{
+    border: 1px solid black;
+    font-family: 'Source Sans 3';
+    font-weight: 400;
+    text-align: center;
+    width: 50%;
+}
+
+h1{
+    color: #04146c;
+    font-weight: 900;
+    font-size: 66pt;
+    margin: auto;
+}
+
+h2{
+    background-color: #04146c;
+    color: white;
+    font-size: 29pt;
+    margin: auto;
+}
+
+h3{
+    color: #04146c;
+    font-size: 20pt;
+}
+h3>strong{
+    font-weight: 700;
+}
+
+p{
+    background-color: #edf7ff;
+    color: #04146c;
+    font-size: 18pt;
+
+}
+
+img{
+    width: 600px;
+    border: 1px solid black;
+}
