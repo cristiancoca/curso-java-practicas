@@ -1,0 +1,43 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+.container{
+    text-align: center;
+    color: #0a2ff1;
+    width: 1280px;
+    font-family: 'Montserrat';
+    font-weight: 900;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 50pt;
+    background-color: white;
+    border-top: 40px solid #0a2ff1;
+}
+
+h2{
+    font-size: 148pt;
+    background-color: black;
+    color: white;
+}
+h3{
+    font-size: 163pt;
+    color: black;
+}
+p{
+    font-weight: 600;
+    font-size: 36pt;
+}
+p>strong{
+    font-size: 45pt;
+}
+h4{
+    font-weight: 600;
+    font-size: 44pt;
+    border-bottom: 80px solid #0a2ff1;
+}
+
+.descuento{
+    background-color: black;
+    color: white;
+}

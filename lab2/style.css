@@ -1,0 +1,40 @@
+/* font-family: 'Montserrat', sans-serif; */
+
+.container{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 1280px;
+    font-family: 'Montserrat';
+    font-weight: 900;
+    border: 5px solid black;
+    
+}
+
+h1{
+    font-weight: 900;
+    font-size: 50pt;
+}
+
+h2{
+    font-size: 148pt;
+}
+h3{
+    font-size: 163pt;
+}
+p{
+    font-weight: 600;
+    font-size: 36pt;
+}
+p>strong{
+    font-size: 45pt;
+}
+h4{
+    font-weight: 600;
+    font-size: 44pt;
+}
+
+h2, p{
+    background-color: white;
+    color: black;
+}
